@@ -17,6 +17,10 @@
   "homepage": "https://github.com/Khalaychev/my-website#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.19.2"
+    "axios": "^1.7.3",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "passport": "^0.7.0",
+    "passport-oauth2": "^1.8.0"
   }
 }
